@@ -1,0 +1,25 @@
+Var2,Cell Type
+b_memory,Memory B
+b_naive,Naive B
+dendritic_myeloid_immature,iDC
+dendritic_myeloid_mature,mDC
+endothelial,Endo
+eosinophil,Eosino
+epithelial,Epi
+fibroblast,Fibro
+macrophage_M1,Macro M1
+macrophage_M2,Macro M2
+mast_cell,Mast
+monocyte,Mono
+neutrophil,Neutro
+nk_primed_IL2,IL2NK
+nk_primed_IL2_PDGFD,SPANK
+nk_resting,ReNK
+t_CD4_memory_central,CD4 Tcm
+t_CD4_memory_effector,CD4 Tem
+t_CD8_memory_central,CD8 Tcm
+t_CD8_memory_effector,CD8 Tem
+t_CD8_naive,Naive CD8 T
+t_gamma_delta,GD T
+t_helper,T Helper
+t_reg,Treg
